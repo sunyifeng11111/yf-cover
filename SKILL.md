@@ -1,5 +1,5 @@
 ---
-name: xhs-video-cover
+name: yf-cover
 description: 为 AI 工具技巧视频制作小红书封面。用户提供产品截图、人物 IP，以及口播文稿或标题时，生成标题醒目、大屏幕展示产品、IP 小人参与画面的封面；适用于三种固定视觉布局。
 ---
 
